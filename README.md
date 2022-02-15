@@ -1,3 +1,4 @@
+# Abstract
 The rapid increase of smoking-related diseases and deaths globally is driving us to find an effective approach
 to reduce the smoking rate. This study aims to determine whether indoor smoking bans at workplaces can
 effectively reduce the smoking rate. The “Smokeban” dataset used for this study is an observational dataset
